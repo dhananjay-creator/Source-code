@@ -1,0 +1,445 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms - Lets Learn It</title>
+
+</head>
+
+<body>
+    <h1>Form to apply for Sigma Web Development course - TA</h1>
+    <form action="post">
+        <div>
+            <label for="id">Enter your username</label>
+            <input type="text" : id="username" name="username" placeholder="Enter your Username" autofocus>
+        </div>
+        <div>
+            <input type="radio" id="male" name="gender" value="male">
+            <label for="male">Male</label>
+            <input type="radio" id="female" name="gender" value="female">
+            <label for="female">Female</label>
+        </div>
+        <div>
+            <input type="checkbox" id="subscribe" name="subscribe" value="yes">
+            <label for="subscribe">Subscribe to newsletter</label>
+        </div>
+        <div>
+            <textarea name="comment" rows="4" cols="50"></textarea>
+        </div>
+        <div>
+            <select name="fruits">
+                <option value="apple">Apple</option>
+                <option value="banana">Banana</option>
+                <option value="cherry">Cherry</option>
+            </select>
+        </div>
+    </form>  
+</body>
+
+</html>   -->
+
+<!-- ------------------newtopic--------------- -->
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Bookmark - CodeWithDJ</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+     <img width="1600" height="900" src="tanjiro image.jpg" alt="Tanjiro">
+     <table>
+        <tr>
+            <th>NAME</th>
+            <th>Age</th>
+        </tr>
+        <tr>
+            <td>Tanjiro</td>
+            <td>25</td>
+        </tr>
+
+        <tr>
+            <td>Nezuko</td>
+            <td>18</td>
+        </tr>
+     </table>
+
+</body>
+</html> -->
+
+<!-- ----------- new topic----------- -->
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Incline and Block elements</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <p>Hey I am a para</p>
+    <a href="http://google.com">Google</a>
+    <div>I am a block element</div>
+    <span>I am a span and i am incline</span>
+    <a href="">yes he is inclined</a>
+</body>
+
+</html> -->
+
+
+<!-- ------------------newtopic------------------ -->
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ID and Classes in HTML</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="firstdev" class="red bg-yellow">First</div>
+    <div id="seconddev">Second</div>
+    <span  class="red"></span>
+</body>
+</html> -->
+
+<!-- ------------------newtopic--------------- -->
+
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video, Audio and Media</title>
+</head>
+<body>
+    
+</body>
+</html> -->
+
+<!-- ------------------newtopic--------------- -->
+
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semantic tags</title>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li>Home</li>
+                <li>Home</li>
+                <li>Home</li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h1> What are Semantic Tags</h1>
+    </main>
+
+    <footer>
+        Copyright CWH | All rights reserve
+    </footer>
+
+
+</body>
+
+</html> -->
+
+
+<!-- ------------------newtopic------------------ -->
+
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    this is the code for the paragraph &lt;p&gt;&lt;/p&gt;
+    <pre>
+        <p>this is a para</p>
+
+
+        This is after few lines  and ss omee m roer
+    </pre>
+    Copyright &copy;&nbsp;&nbsp;&nbsp;&nbsp;CodeWithDJ
+    <canvas id="myCanvas" width="200" height="100"></canvas>
+</body>
+</html> -->
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>This is HTML code</h1>
+     <pre><code> 
+       /* <code>this is use for adding code in the website</code>
+&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+    &lt;meta charset="UTF-8"&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+    &lt;title&gt;Document&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    
+&lt;/body&gt;
+&lt;/html&gt;
+    </code></pre>
+</body>
+
+</html> -->
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS</title>
+    <style>
+        div, span{
+            color:blueviolet;
+            background-color: aqua;
+        }
+        
+    </style>
+</head>
+<body>
+    <div>
+        Hey I am Dj nd i am goodd
+        
+    </div>
+    <span>i am</span>
+</body>
+</html> -->
+
+
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+     <style>
+         h1{
+            background-color: yellow;
+            color: red;
+        }
+    </style> 
+</head>
+
+<body> 
+     <h1 style="color: red;">Three ways to add CSS in HTML</h1>
+     <div>
+        <ol>
+            <li>Incline CSS - ek sth hi saare headings ko color jese upr style krke kiya hai</li>
+            <li>Internal CSS - har ek heading mein color dalna padega</li>
+            <li>External CSS - using link after title</li>
+        </ol>
+    </div>
+    <p>Everyone is good in some way or the other. Does this make any sense?</p>
+</body>
+
+</html>  -->
+
+
+<!-- <!DOCTYPE html> 
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Selectors</title>
+    <style>
+        /* Element selector*/
+        /*div{
+            background-color: red;
+        }*/
+        /*Class selector*/
+        .red {
+            background-color: red;
+        }
+
+        /* Id selector*/
+        #green {
+            background-color: green;
+        }
+
+        /* Child selector*/
+        div>p {
+            color: blue;
+            background-color: brown;
+        }
+        /* Descendent selector*/
+        div p{
+            color: green;
+            background-color: aqua;
+        }
+        /* universal selector*/
+        *{
+            margin: 0;
+            padding: left;
+        }
+
+        /* pseudo selector*/
+        a:visited{
+            color: yellow
+        }
+        a:link{
+            color: green;
+        }
+        a:active{
+            background-color: red;
+        }
+
+    </style>
+</head>
+
+<body>
+    <div class="red">
+        I am a div
+        <article>
+            <p>I am para inside div</p>
+        </article>
+    </div>
+
+
+    <div id="green">
+        i am 2nd div
+    </div>
+    <div>
+        <a href="http://www.google.com">Go to Google</a>
+        <a href="http://www.linkedin.com">Go to linkedin</a>
+    </div>
+</body>
+
+</html> -->
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Box Model in CSS</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+
+        .box {
+            background-color: aqua;
+        }
+
+        .box1 {
+            color: yellow;
+            padding: 10px;
+            margin: 25px;
+            border: 2px solid black;
+            height: 200px;
+            box-sizing: border-box;
+            /*isshka mtlb mere elemnet ki height border+padding ko include hai pr margin ki distance u=include nhi hoga*/
+        }
+
+        /*Total height= (up+down)padding+(up+down)borders+(up+down)margin distance
+Total width=(left+right)padding+(left+right)border+(left+right)margin distance*/
+        .box2 {
+            color: red;
+            padding: 10px;
+            margin: 25px;
+            border: 2px solid blue;
+            height: 200px;
+            box-sizing: border-box;
+
+        }
+        /*Margin colalapse- jiseki margin badi hogi vohe nargin aaply hojayegi dono box ke bich*/
+    </style>
+</head>
+
+<body>
+    <div class="box box1">I am a box1</div>
+    <div class="box box2">I am a box2</div>
+</body>
+
+</html> -->
+
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h1 {
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+
+        p {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-style: italic;
+            font-weight: 500;
+            /*text bold ese bhi krsakhte hai*/
+        }
+
+        h2 {
+            text-align: center;
+            text-transform: capitalize;
+            text-decoration: underline;
+            text-decoration-color: brown;
+            /*text-decoration-style:wavy;*/
+            text-decoration-thickness: 7px;
+            /*text-indent: 45px;*/
+        }
+
+        .lorem {
+            border: 2px solid red;
+            width: 45px;
+            text-overflow: ellipsis;
+            overflow: hidden;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <h1>Fonts</h1>
+        <h2>about Fonts</h2>
+        <p>THis is the video on fonts</p>
+        <p class="lorem">Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis voluptate harum molestias aspernatur
+            delectus vitae.</p>
+    </div>
+</body>
+
+</html> -->
+
